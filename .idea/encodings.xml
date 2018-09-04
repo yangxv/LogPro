@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/log4j2Demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j2Demo/ear" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j2Demo/ejbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j2Demo/primary-source" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j2Demo/projects" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j2Demo/projects/logging" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j2Demo/servlets" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j2Demo/servlets/servlet" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/log4jDemo" charset="UTF-8" />
   </component>
 </project>

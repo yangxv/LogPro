@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="ejb" url="file://$PROJECT_DIR$/log4j2Demo/ejbs" />
+    <file type="javaeeApplication" url="file://$PROJECT_DIR$/log4j2Demo/ear" />
+    <file type="web" url="file://$PROJECT_DIR$/log4j2Demo/servlets/servlet" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/log4jDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/log4j2Demo/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/log4j2Demo/ear/pom.xml" />
+        <option value="$PROJECT_DIR$/log4j2Demo/ejbs/pom.xml" />
+        <option value="$PROJECT_DIR$/log4j2Demo/pom.xml" />
+        <option value="$PROJECT_DIR$/log4j2Demo/primary-source/pom.xml" />
+        <option value="$PROJECT_DIR$/log4j2Demo/projects/logging/pom.xml" />
+        <option value="$PROJECT_DIR$/log4j2Demo/projects/pom.xml" />
+        <option value="$PROJECT_DIR$/log4j2Demo/servlets/pom.xml" />
+        <option value="$PROJECT_DIR$/log4j2Demo/servlets/servlet/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager">
