@@ -9,14 +9,12 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/log4jDemo/pom.xml" />
-        <option value="$PROJECT_DIR$/log4j2Demo/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/log4j2Demo/ear/pom.xml" />
         <option value="$PROJECT_DIR$/log4j2Demo/ejbs/pom.xml" />
-        <option value="$PROJECT_DIR$/log4j2Demo/pom.xml" />
         <option value="$PROJECT_DIR$/log4j2Demo/primary-source/pom.xml" />
         <option value="$PROJECT_DIR$/log4j2Demo/projects/logging/pom.xml" />
         <option value="$PROJECT_DIR$/log4j2Demo/projects/pom.xml" />
